@@ -43,4 +43,4 @@ For example, to use top10subs.txt:
 
 **Screenshot**
 
-![Screenshot](screenshots/screenshot.png)
+![Screenshot](screenshots/screenshot.jpg)
